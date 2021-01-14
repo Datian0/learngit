@@ -9,8 +9,8 @@ git config --global user.email "1505879845@qq.com"
 git init
 
 //添加文件到git仓库，分两步
-git add <file> （可反复多次使用，添加多个文件）
-git commit -m <message>
+git add filename.txt （可反复多次使用，添加多个文件）
+git commit -m "message"
 
 //查看仓库当前的状态
 git status
