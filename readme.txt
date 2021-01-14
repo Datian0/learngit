@@ -19,3 +19,5 @@ git status
 Git diff readme.txt
 
 //学习git版本回退
+//显示从最近到最远的提交日志
+git log 
