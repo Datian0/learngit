@@ -17,3 +17,5 @@ git status
 
 //查看具体修改内容
 Git diff readme.txt
+
+//学习git版本回退
